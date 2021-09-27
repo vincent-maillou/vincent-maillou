@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on the high performance computing field
 - 📫 How to reach me : by mail at vincent.maillou@eleves.ec-nantes.fr
 
-- Certificats : \n
-DLI Center Nvidia CUDA Fundamentals - b11c0c7b820a490ca776def241ad6e08
+Certificats :  
+Fundamentals of Accelerated Computing with CUDA C/C++ - b11c0c7b820a490ca776def241ad6e08
 
 <!---
 vincent-maillou/vincent-maillou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
