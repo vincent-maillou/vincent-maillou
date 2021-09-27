@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the high performance computing field
 - 📫 How to reach me : by mail at vincent.maillou@eleves.ec-nantes.fr
 
-- Certificats : 
+- Certificats : \n
 DLI Center Nvidia CUDA Fundamentals - b11c0c7b820a490ca776def241ad6e08
 
 <!---
