@@ -6,7 +6,7 @@
 - 📫 How to reach me : by mail at vincent.maillou@eleves.ec-nantes.fr
 
 
-## Certificats:  
+## Certificates:  
 **Name:** NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++  
 **Issuing Organization:** NVIDIA Deep Learning Institute  
 **Link to certification:** https://courses.nvidia.com/certificates/b11c0c7b820a490ca776def241ad6e08
