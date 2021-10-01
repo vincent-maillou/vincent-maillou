@@ -9,7 +9,13 @@
 ## Certificates:  
 **Name:** NVIDIA DLI Certificate – Fundamentals of Accelerated Computing with CUDA C/C++  
 **Issuing Organization:** NVIDIA Deep Learning Institute  
-**Link to certification:** https://courses.nvidia.com/certificates/b11c0c7b820a490ca776def241ad6e08
+**Link to certification:** https://courses.nvidia.com/certificates/b11c0c7b820a490ca776def241ad6e08  
+
+**Name:** NVIDIA DLI Certificate – Accelerating CUDA C++ Applications with Concurrent Streams  
+**Issuing Organization:** NVIDIA Deep Learning Institute  
+**Link to certification:** https://courses.nvidia.com/certificates/4805e99ae2a240c786763b04d2397f91
+
+
 
 <!---
 vincent-maillou/vincent-maillou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
