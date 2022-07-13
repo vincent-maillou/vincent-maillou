@@ -1,7 +1,7 @@
 ## About me:  
 - 👋 Hi, I’m @vincent-maillou, french student of the Ecole Centrale Nantes
-- 👀 I’m interested in high performance computing, specific hardware implementation of algorithms (such as deep learning algorithm) and computation hardware such as FPGA and ASIC
-- 🌱 I’m currently learning CUDA 
+- 👀 I’m interested in high performance computing, specific hardware implementation of algorithms (such as deep learning algorithm) and computation hardware such as GPU, FPGA and ASIC
+- 🌱 I’m currently learning GPU programming 
 - 💞️ I’m looking to collaborate on the high performance computing field
 - 📫 How to reach me : by mail at vincent.maillou@eleves.ec-nantes.fr
 
