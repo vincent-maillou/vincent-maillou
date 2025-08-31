@@ -2,7 +2,7 @@
 
 I am a **PhD candidate at ETH Zurich** (NANO-TCAD), specializing in **High-Performance Computing (HPC)** and scalable numerical methods for large-scale scientific applications. My research focuses on **GPU-accelerated linear solvers, Bayesian inference frameworks, and nanoscale quantum transport simulations**.
 
-- 🔭 Currently developing:
+- Currently developing:
   - **Serinv** – GPU-accelerated selected solver library for structured sparse matrices.  
     [GitHub](https://github.com/vincent-maillou/serinv)
   - **DALIA** – High-performance framework for approximate Bayesian inference.  
@@ -10,14 +10,14 @@ I am a **PhD candidate at ETH Zurich** (NANO-TCAD), specializing in **High-Perfo
   - **QuaTrEx** – Quantum transport simulations at the exascale.  
     [GitHub](https://github.com/quatrex-tcad/quatrex)
 
-- 🌱 Skills & Expertise:
+- Skills & Expertise:
   - **High-Performance Computing:** MPI, OpenMP, CUDA, OpenACC, distributed memory algorithms, GPU computing, performance optimization  
   - **Numerical Methods:** Sparse linear algebra, selected inversion, iterative & direct solvers, numerical optimization  
   - **Scientific Applications:** Quantum transport simulations (NEGF), Bayesian inference (INLA), spatio-temporal modeling, mechanical smart-structures
 
-- 📫 Contact: [vmaillou@iis.ee.ethz.ch](mailto:vmaillou@iis.ee.ethz.ch)  
-- 🌐 LinkedIn: [vincent-maillou](https://www.linkedin.com/in/vincent-maillou-hpc/)  
-- 💻 GitHub: [vincent-maillou](https://github.com/vincent-maillou)
+- Contact: [vmaillou@iis.ee.ethz.ch](mailto:vmaillou@iis.ee.ethz.ch)  
+- LinkedIn: [vincent-maillou](https://www.linkedin.com/in/vincent-maillou-hpc/)  
+- GitHub: [vincent-maillou](https://github.com/vincent-maillou)
 
 ---
 
@@ -54,3 +54,13 @@ For full publications list, see [my Google Scholar profile](https://scholar.goog
 | **Serinv** | Selected solver library for structured sparse matrices; supports sequential and distributed-memory algorithms with GPU acceleration. | [Link](https://github.com/vincent-maillou/serinv) |
 | **DALIA** | High-performance Python framework for approximate Bayesian inference, leveraging structured sparse solvers for spatio-temporal modeling. | [Link](https://github.com/lisa-gm/DALIA) |
 | **QuaTrEx** | Quantum transport simulations using the non-equilibrium Green's function formalism at exascale HPC. | [Link](https://github.com/quatrex-tcad/quatrex) |
+
+
+---
+
+## GitHub Stats
+
+| Stats | Top Languages | Streak |
+|-------|---------------|--------|
+| ![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-maillou&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-maillou&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vincent-maillou&theme=radical) |
+
